@@ -1,1 +1,1 @@
-# Intro-to-Soroban
+# Intro to Soroban
