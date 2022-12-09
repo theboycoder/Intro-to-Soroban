@@ -7,5 +7,5 @@ Smart contracts have been the key foundation to many of the most innovative and 
 
 # What is Soroban?
 
-Soroban is a new generation smart contract language that is being developed by the Stellar Development Foundation. It is designed to address some of the challenges and limitations of existing smart contract platforms. Soroban is designed to be more efficient, secure, and user-friendly and scalable than other smart conrtact platforms. It is intended to be used on the Stellar blockchain, but it is not limited to this platform and could potentially be used on other blockchain networks as well.
+Soroban is a new generation smart contract language that is being developed by the Stellar Development Foundation. It is designed to address some of the challenges and limitations of existing smart contract platforms. Soroban is designed to be more efficient, secure, user-friendly and scalable than other smart conrtact platforms. It is intended to be used on the Stellar blockchain, but it is not limited to this platform and could potentially be used on other blockchain networks as well.
 
