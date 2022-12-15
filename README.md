@@ -18,13 +18,13 @@ Soroban is a new generation smart contract language that is being developed by t
 
 ![Build without limits](https://user-images.githubusercontent.com/45983304/207730770-41a38fcd-2da3-4c6f-9361-b18ac11494e1.png)
 
-Soroban is built on Rust and WASM, It allows fast, scalable and sensible smart contracts to be developed. They offer high level proformance and efficency, and run quickly and efficently without sacrificing security or reliability. Soroban leverages the powerful Rust & WASM tech stakck, and enables developers to create high performance, safe, secure, and scable dApps. It enables endless possibility and removes the limits developers face with other smart contract platforms.
+Soroban is built on Rust and WASM, It allows fast, scalable and sensible smart contracts to be developed. They offer high level proformance and efficency, and run quickly and efficently without sacrificing security or reliability. Soroban leverages the powerful Rust & WASM tech stack, and enables developers to create high performance, safe, secure, and scalable dApps. It enables endless possibility and removes the limits developers face with other smart contract platforms.
 
 # Soroban vs EVM
 
 ![Soroban vs EVM](https://user-images.githubusercontent.com/45983304/207747540-47a80d5c-9d32-438a-9358-57ca1ee0f893.png)
 
-There are key fundamental differences between Soroban and EVM, while they both allow decentralized applications to be built, Soroban tackles the many issues with EVM which cause ledger bloat, fee model, serialization, storage model and etc.
+There are key fundamental differences between Soroban and EVM, while they both allow decentralized applications to be built, Soroban tackles the many issues face EVM like ledger bloat, fee model, serialization, storage model and etc.
 
 # Soroban contract overview 
 
