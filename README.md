@@ -24,7 +24,7 @@ Soroban is built on Rust and WASM, It allows fast, scalable and sensible smart c
 
 ![Soroban vs EVM](https://user-images.githubusercontent.com/45983304/207747540-47a80d5c-9d32-438a-9358-57ca1ee0f893.png)
 
-There are key fundamental differences between Soroban and EVM, while they both allow decentralized applications to be built, Soroban tackles the many issues face EVM like ledger bloat, fee model, serialization, storage model and etc.
+There are key fundamental differences between Soroban and EVM, while they both allow decentralized applications to be built, Soroban tackles the many issues  which face EVM like ledger bloat, fee model, serialization, storage model and etc.
 
 # Soroban contract overview 
 
