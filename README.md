@@ -18,3 +18,11 @@ Soroban is a new generation smart contract language that is being developed by t
 
 ![Build without limits](https://user-images.githubusercontent.com/45983304/207730770-41a38fcd-2da3-4c6f-9361-b18ac11494e1.png)
 
+# Soroban vs EVM
+
+![Soroban vs EVM](https://user-images.githubusercontent.com/45983304/207743915-545e611b-c420-44f8-8232-46c831e950d0.png)
+
+# Soroban contract overview 
+
+![Soroban Contract Overview](https://user-images.githubusercontent.com/45983304/207743969-742c4a01-b7f0-49b2-a5cd-9fdfaf507114.png)
+
